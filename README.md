@@ -21,16 +21,9 @@ This project applies **Machine Learning** techniques to analyze a digital market
 - Segment customers based on income, age, loyalty score, and other relevant factors.  
 - Algorithms used:  
   ✅ K-Means  
-  ✅ Hierarchical Clustering  
-  ✅ DBSCAN  
+  ✅ Hierarchical Clustering   
 
 ## 🔧 Tech Stack
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - **Machine Learning** (Decision Tree, Random Forest, XGBoost, LightGBM, K-Means)  
 - **Jupyter Notebooks** (For step-by-step analysis)  
-
-## 🚀 How to Use
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/yourusername/digital-marketing-ml.git
-cd digital-marketing-ml
